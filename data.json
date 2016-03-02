@@ -1,0 +1,57 @@
+[
+	{
+		"productName": "Suede Chelsea Boots",
+		"rating": 45,
+		"promotion": false,
+		"oldPrice": "",
+		"price": 350.00,
+		"news": false,
+		"freeShipping": true,
+		"parcel": false,
+		"parcelTimes": 0
+	},
+	{
+		"productName": "Nike Air Max 90 Galaxy",
+		"rating": 35,
+		"promotion": true,
+		"oldPrice": 699.00,
+		"price": 499.00,
+		"news": false,
+		"freeShipping": false,
+		"parcel": false,
+		"parcelTimes": 0
+	},
+	{
+		"productName": "Nike Air Max Tava Gradient",
+		"rating": 50,
+		"promotion": false,
+		"oldPrice": "",
+		"price": 599.00,
+		"news": false,
+		"freeShipping": true,
+		"parcel": false,
+		"parcelTimes": 0
+	},
+	{
+		"productName": "Timberland Yellow Boot",
+		"rating": 100,
+		"promotion": true,
+		"oldPrice": 699.00,
+		"price": 499.00,
+		"news": true,
+		"freeShipping": true,
+		"parcel": true,
+		"parcelTimes": 10
+	},
+	{
+		"productName": "Vans SK8 Hi Preto",
+		"rating": 50,
+		"promotion": true,
+		"oldPrice": 320.00,
+		"price": 240.00,
+		"news": false,
+		"freeShipping": true,
+		"parcel": false,
+		"parcelTimes": 0
+	}
+]
